@@ -1,0 +1,1285 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Nest-AspNet.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Nest-AspNet.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\css\\main.css",
+      "PackagePath": "staticwebassets\\assets\\css\\main.css"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\css\\main.css.map",
+      "PackagePath": "staticwebassets\\assets\\css\\main.css.map"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\css\\plugins\\animate.css",
+      "PackagePath": "staticwebassets\\assets\\css\\plugins\\animate.css"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\css\\plugins\\animate.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\plugins\\animate.min.css"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\css\\plugins\\jquery-ui.css",
+      "PackagePath": "staticwebassets\\assets\\css\\plugins\\jquery-ui.css"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\css\\plugins\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\assets\\css\\plugins\\magnific-popup.css"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\css\\plugins\\perfect-scrollbar.css",
+      "PackagePath": "staticwebassets\\assets\\css\\plugins\\perfect-scrollbar.css"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\css\\plugins\\select2.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\plugins\\select2.min.css"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\css\\plugins\\slick.css",
+      "PackagePath": "staticwebassets\\assets\\css\\plugins\\slick.css"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\css\\plugins\\slider-range.css",
+      "PackagePath": "staticwebassets\\assets\\css\\plugins\\slider-range.css"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\css\\vendors\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\vendors\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\css\\vendors\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\css\\vendors\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\css\\vendors\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\vendors\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\css\\vendors\\normalize.css",
+      "PackagePath": "staticwebassets\\assets\\css\\vendors\\normalize.css"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\css\\vendors\\uicons-regular-straight.css",
+      "PackagePath": "staticwebassets\\assets\\css\\vendors\\uicons-regular-straight.css"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\fonts\\uicons\\uicons-regular-straight.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\uicons\\uicons-regular-straight.eot"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\fonts\\uicons\\uicons-regular-straight.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\uicons\\uicons-regular-straight.woff"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\fonts\\uicons\\uicons-regular-straight.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\uicons\\uicons-regular-straight.woff2"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\banner\\banner-1.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\banner\\banner-1.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\banner\\banner-10.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\banner\\banner-10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\banner\\banner-10.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\banner\\banner-10.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\banner\\banner-11.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\banner\\banner-11.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\banner\\banner-12.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\banner\\banner-12.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\banner\\banner-13.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\banner\\banner-13.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\banner\\banner-14.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\banner\\banner-14.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\banner\\banner-15.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\banner\\banner-15.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\banner\\banner-16.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\banner\\banner-16.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\banner\\banner-17.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\banner\\banner-17.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\banner\\banner-18.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\banner\\banner-18.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\banner\\banner-19.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\banner\\banner-19.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\banner\\banner-2.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\banner\\banner-2.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\banner\\banner-3.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\banner\\banner-3.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\banner\\banner-4.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\banner\\banner-4.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\banner\\banner-5.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\banner\\banner-5.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\banner\\banner-6.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\banner\\banner-6.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\banner\\banner-7.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\banner\\banner-7.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\banner\\banner-8.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\banner\\banner-8.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\banner\\banner-9.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\banner\\banner-9.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\banner\\banner-menu.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\banner\\banner-menu.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\banner\\fillter-widget-bg.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\banner\\fillter-widget-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\banner\\popup-1.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\banner\\popup-1.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\blog\\author-1.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\blog\\author-1.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\blog\\author-2.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\blog\\author-2.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\blog\\author-3.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\blog\\author-3.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\blog\\author-4.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\blog\\author-4.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\blog\\blog-1.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\blog\\blog-1.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\blog\\blog-10.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\blog\\blog-10.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\blog\\blog-11.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\blog\\blog-11.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\blog\\blog-12.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\blog\\blog-12.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\blog\\blog-13.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\blog\\blog-13.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\blog\\blog-14.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\blog\\blog-14.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\blog\\blog-15.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\blog\\blog-15.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\blog\\blog-16.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\blog\\blog-16.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\blog\\blog-17.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\blog\\blog-17.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\blog\\blog-18.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\blog\\blog-18.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\blog\\blog-19.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\blog\\blog-19.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\blog\\blog-2.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\blog\\blog-2.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\blog\\blog-20.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\blog\\blog-20.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\blog\\blog-21.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\blog\\blog-21.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\blog\\blog-3.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\blog\\blog-3.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\blog\\blog-4.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\blog\\blog-4.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\blog\\blog-5.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\blog\\blog-5.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\blog\\blog-6.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\blog\\blog-6.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\blog\\blog-7.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\blog\\blog-7.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\blog\\blog-8.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\blog\\blog-8.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\blog\\blog-9.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\blog\\blog-9.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\blog\\header-bg.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\blog\\header-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\invoice\\banner.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\invoice\\banner.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\invoice\\header-bg-1.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\invoice\\header-bg-1.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\invoice\\header-bg-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\invoice\\header-bg-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\page\\about-1.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\page\\about-1.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\page\\about-2.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\page\\about-2.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\page\\about-3.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\page\\about-3.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\page\\about-4.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\page\\about-4.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\page\\about-5.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\page\\about-5.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\page\\about-6.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\page\\about-6.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\page\\about-8.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\page\\about-8.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\page\\about-9.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\page\\about-9.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\page\\bg-1.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\page\\bg-1.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\page\\contact-1.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\page\\contact-1.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\page\\contact-2.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\page\\contact-2.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\page\\guide-1.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\page\\guide-1.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\page\\home-6-bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\page\\home-6-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\page\\login-1.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\page\\login-1.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\page\\page-404.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\page\\page-404.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\shop\\cat-1.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\cat-1.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\shop\\cat-10.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\cat-10.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\shop\\cat-11.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\cat-11.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\shop\\cat-12.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\cat-12.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\shop\\cat-13.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\cat-13.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\shop\\cat-14.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\cat-14.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\shop\\cat-15.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\cat-15.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\shop\\cat-16.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\cat-16.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\shop\\cat-2.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\cat-2.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\shop\\cat-3.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\cat-3.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\shop\\cat-4.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\cat-4.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\shop\\cat-5.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\cat-5.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\shop\\cat-6.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\cat-6.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\shop\\cat-7.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\cat-7.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\shop\\cat-8.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\cat-8.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\shop\\cat-9.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\cat-9.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\shop\\product-1-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\product-1-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\shop\\product-1-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\product-1-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\shop\\product-10-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\product-10-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\shop\\product-10-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\product-10-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\shop\\product-11-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\product-11-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\shop\\product-11-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\product-11-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\shop\\product-12-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\product-12-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\shop\\product-12-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\product-12-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\shop\\product-13-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\product-13-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\shop\\product-13-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\product-13-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\shop\\product-14-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\product-14-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\shop\\product-14-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\product-14-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\shop\\product-15-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\product-15-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\shop\\product-15-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\product-15-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\shop\\product-16-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\product-16-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\shop\\product-16-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\product-16-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\shop\\product-16-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\product-16-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\shop\\product-16-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\product-16-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\shop\\product-16-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\product-16-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\shop\\product-16-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\product-16-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\shop\\product-16-7.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\product-16-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\shop\\product-2-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\product-2-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\shop\\product-2-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\product-2-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\shop\\product-3-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\product-3-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\shop\\product-3-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\product-3-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\shop\\product-4-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\product-4-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\shop\\product-4-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\product-4-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\shop\\product-5-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\product-5-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\shop\\product-5-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\product-5-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\shop\\product-6-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\product-6-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\shop\\product-6-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\product-6-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\shop\\product-7-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\product-7-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\shop\\product-7-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\product-7-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\shop\\product-8-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\product-8-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\shop\\product-8-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\product-8-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\shop\\product-9-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\product-9-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\shop\\product-9-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\product-9-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\shop\\thumbnail-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\thumbnail-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\shop\\thumbnail-10.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\thumbnail-10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\shop\\thumbnail-11.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\thumbnail-11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\shop\\thumbnail-12.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\thumbnail-12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\shop\\thumbnail-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\thumbnail-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\shop\\thumbnail-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\thumbnail-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\shop\\thumbnail-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\thumbnail-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\shop\\thumbnail-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\thumbnail-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\shop\\thumbnail-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\thumbnail-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\shop\\thumbnail-7.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\thumbnail-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\shop\\thumbnail-8.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\thumbnail-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\shop\\thumbnail-9.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\thumbnail-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\slider\\slider-1.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\slider\\slider-1.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\slider\\slider-2.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\slider\\slider-2.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\slider\\slider-3.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\slider\\slider-3.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\slider\\slider-4.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\slider\\slider-4.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\slider\\slider-5.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\slider\\slider-5.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\slider\\slider-6.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\slider\\slider-6.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\slider\\slider-7.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\slider\\slider-7.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\slider\\slider-8.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\slider\\slider-8.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\theme\\app-store.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\theme\\app-store.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\theme\\favicon.svg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\theme\\favicon.svg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\theme\\flag-dt.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\theme\\flag-dt.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\theme\\flag-fr.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\theme\\flag-fr.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\theme\\flag-ru.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\theme\\flag-ru.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\theme\\google-play.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\theme\\google-play.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\theme\\icons\\category-1.svg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\theme\\icons\\category-1.svg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\theme\\icons\\category-10.svg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\theme\\icons\\category-10.svg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\theme\\icons\\category-11.svg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\theme\\icons\\category-11.svg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\theme\\icons\\category-2.svg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\theme\\icons\\category-2.svg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\theme\\icons\\category-3.svg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\theme\\icons\\category-3.svg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\theme\\icons\\category-4.svg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\theme\\icons\\category-4.svg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\theme\\icons\\category-5.svg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\theme\\icons\\category-5.svg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\theme\\icons\\category-6.svg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\theme\\icons\\category-6.svg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\theme\\icons\\category-7.svg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\theme\\icons\\category-7.svg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\theme\\icons\\category-8.svg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\theme\\icons\\category-8.svg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\theme\\icons\\category-9.svg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\theme\\icons\\category-9.svg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\theme\\icons\\coupon.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\theme\\icons\\coupon.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\theme\\icons\\icon-1.svg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\theme\\icons\\icon-1.svg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\theme\\icons\\icon-2.svg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\theme\\icons\\icon-2.svg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\theme\\icons\\icon-3.svg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\theme\\icons\\icon-3.svg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\theme\\icons\\icon-4.svg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\theme\\icons\\icon-4.svg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\theme\\icons\\icon-5.svg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\theme\\icons\\icon-5.svg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\theme\\icons\\icon-6.svg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\theme\\icons\\icon-6.svg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\theme\\icons\\icon-bookmark.svg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\theme\\icons\\icon-bookmark.svg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\theme\\icons\\icon-cart.svg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\theme\\icons\\icon-cart.svg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\theme\\icons\\icon-clock.svg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\theme\\icons\\icon-clock.svg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\theme\\icons\\icon-compare.svg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\theme\\icons\\icon-compare.svg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\theme\\icons\\icon-contact.svg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\theme\\icons\\icon-contact.svg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\theme\\icons\\icon-download.svg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\theme\\icons\\icon-download.svg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\theme\\icons\\icon-dribbble.svg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\theme\\icons\\icon-dribbble.svg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\theme\\icons\\icon-email-2.svg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\theme\\icons\\icon-email-2.svg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\theme\\icons\\icon-email.svg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\theme\\icons\\icon-email.svg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\theme\\icons\\icon-facebook-brand.svg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\theme\\icons\\icon-facebook-brand.svg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\theme\\icons\\icon-facebook-white.svg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\theme\\icons\\icon-facebook-white.svg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\theme\\icons\\icon-facebook.svg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\theme\\icons\\icon-facebook.svg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\theme\\icons\\icon-headphone-white.svg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\theme\\icons\\icon-headphone-white.svg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\theme\\icons\\icon-headphone.svg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\theme\\icons\\icon-headphone.svg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\theme\\icons\\icon-heart-2.svg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\theme\\icons\\icon-heart-2.svg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\theme\\icons\\icon-heart.svg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\theme\\icons\\icon-heart.svg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\theme\\icons\\icon-hot-white.svg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\theme\\icons\\icon-hot-white.svg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\theme\\icons\\icon-hot.svg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\theme\\icons\\icon-hot.svg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\theme\\icons\\icon-instagram-brand.svg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\theme\\icons\\icon-instagram-brand.svg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\theme\\icons\\icon-instagram-white.svg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\theme\\icons\\icon-instagram-white.svg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\theme\\icons\\icon-instagram.svg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\theme\\icons\\icon-instagram.svg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\theme\\icons\\icon-invoice.svg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\theme\\icons\\icon-invoice.svg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\theme\\icons\\icon-location.svg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\theme\\icons\\icon-location.svg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\theme\\icons\\icon-pinterest-brand.svg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\theme\\icons\\icon-pinterest-brand.svg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\theme\\icons\\icon-pinterest-white.svg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\theme\\icons\\icon-pinterest-white.svg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\theme\\icons\\icon-pinterest.svg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\theme\\icons\\icon-pinterest.svg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\theme\\icons\\icon-plane.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\theme\\icons\\icon-plane.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\theme\\icons\\icon-print.svg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\theme\\icons\\icon-print.svg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\theme\\icons\\icon-search.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\theme\\icons\\icon-search.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\theme\\icons\\icon-twitter-brand.svg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\theme\\icons\\icon-twitter-brand.svg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\theme\\icons\\icon-twitter-white.svg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\theme\\icons\\icon-twitter-white.svg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\theme\\icons\\icon-twitter.svg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\theme\\icons\\icon-twitter.svg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\theme\\icons\\icon-user.svg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\theme\\icons\\icon-user.svg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\theme\\icons\\icon-youtube-brand.svg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\theme\\icons\\icon-youtube-brand.svg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\theme\\icons\\icon-youtube-white.svg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\theme\\icons\\icon-youtube-white.svg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\theme\\icons\\icon-youtube.svg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\theme\\icons\\icon-youtube.svg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\theme\\icons\\logo-apple.svg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\theme\\icons\\logo-apple.svg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\theme\\icons\\logo-facebook.svg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\theme\\icons\\logo-facebook.svg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\theme\\icons\\logo-google.svg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\theme\\icons\\logo-google.svg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\theme\\icons\\payment-master.svg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\theme\\icons\\payment-master.svg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\theme\\icons\\payment-paypal.svg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\theme\\icons\\payment-paypal.svg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\theme\\icons\\payment-visa.svg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\theme\\icons\\payment-visa.svg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\theme\\icons\\payment-zapper.svg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\theme\\icons\\payment-zapper.svg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\theme\\icons\\phone-call.svg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\theme\\icons\\phone-call.svg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\theme\\icons\\search.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\theme\\icons\\search.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\theme\\icons\\social-fb.svg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\theme\\icons\\social-fb.svg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\theme\\icons\\social-insta.svg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\theme\\icons\\social-insta.svg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\theme\\icons\\social-pin.svg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\theme\\icons\\social-pin.svg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\theme\\icons\\social-tw.svg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\theme\\icons\\social-tw.svg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\theme\\loading.gif",
+      "PackagePath": "staticwebassets\\assets\\imgs\\theme\\loading.gif"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\theme\\logo-2.svg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\theme\\logo-2.svg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\theme\\logo-light.svg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\theme\\logo-light.svg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\theme\\logo.svg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\theme\\logo.svg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\theme\\payment-method.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\theme\\payment-method.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\theme\\rating-stars.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\theme\\rating-stars.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\theme\\wave.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\theme\\wave.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\vendor\\vendor-1.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\vendor\\vendor-1.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\vendor\\vendor-10.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\vendor\\vendor-10.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\vendor\\vendor-11.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\vendor\\vendor-11.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\vendor\\vendor-12.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\vendor\\vendor-12.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\vendor\\vendor-13.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\vendor\\vendor-13.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\vendor\\vendor-14.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\vendor\\vendor-14.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\vendor\\vendor-15.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\vendor\\vendor-15.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\vendor\\vendor-16.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\vendor\\vendor-16.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\vendor\\vendor-17.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\vendor\\vendor-17.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\vendor\\vendor-18.svg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\vendor\\vendor-18.svg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\vendor\\vendor-2.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\vendor\\vendor-2.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\vendor\\vendor-3.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\vendor\\vendor-3.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\vendor\\vendor-4.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\vendor\\vendor-4.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\vendor\\vendor-5.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\vendor\\vendor-5.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\vendor\\vendor-6.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\vendor\\vendor-6.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\vendor\\vendor-7.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\vendor\\vendor-7.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\vendor\\vendor-8.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\vendor\\vendor-8.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\vendor\\vendor-9.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\vendor\\vendor-9.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\vendor\\vendor-header-bg.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\vendor\\vendor-header-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\js\\invoice\\html2canvas.js",
+      "PackagePath": "staticwebassets\\assets\\js\\invoice\\html2canvas.js"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\js\\invoice\\invoice.js",
+      "PackagePath": "staticwebassets\\assets\\js\\invoice\\invoice.js"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\js\\invoice\\jspdf.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\invoice\\jspdf.min.js"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\js\\main.js",
+      "PackagePath": "staticwebassets\\assets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\js\\plugins\\TweenMax.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\TweenMax.min.js"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\js\\plugins\\counterup.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\counterup.js"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\js\\plugins\\custom-parallax.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\custom-parallax.js"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\js\\plugins\\images-loaded.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\images-loaded.js"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\js\\plugins\\isotope.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\isotope.js"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\js\\plugins\\jquery-ui.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\jquery-ui.js"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\js\\plugins\\jquery.countdown.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\jquery.countdown.min.js"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\js\\plugins\\jquery.elevatezoom.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\jquery.elevatezoom.js"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\js\\plugins\\jquery.syotimer.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\jquery.syotimer.min.js"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\js\\plugins\\jquery.theia.sticky.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\jquery.theia.sticky.js"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\js\\plugins\\jquery.vticker-min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\jquery.vticker-min.js"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\js\\plugins\\leaflet.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\leaflet.js"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\js\\plugins\\magnific-popup.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\magnific-popup.js"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\js\\plugins\\perfect-scrollbar.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\perfect-scrollbar.js"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\js\\plugins\\scrollup.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\scrollup.js"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\js\\plugins\\select2.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\select2.min.js"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\js\\plugins\\slick.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\slick.js"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\js\\plugins\\slider-range.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\slider-range.js"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\js\\plugins\\waypoints.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\waypoints.js"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\js\\plugins\\wow.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\wow.js"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\js\\shop.js",
+      "PackagePath": "staticwebassets\\assets\\js\\shop.js"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\js\\vendor\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vendor\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\js\\vendor\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\assets\\js\\vendor\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\js\\vendor\\jquery-3.6.0.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vendor\\jquery-3.6.0.min.js"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\js\\vendor\\jquery-migrate-3.3.0.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vendor\\jquery-migrate-3.3.0.min.js"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\js\\vendor\\modernizr-3.6.0.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vendor\\modernizr-3.6.0.min.js"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\sass\\abstracts\\_functions.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\abstracts\\_functions.scss"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\sass\\abstracts\\_mixins.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\abstracts\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\sass\\abstracts\\_variables.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\abstracts\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\sass\\base\\_animation.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\base\\_animation.scss"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\sass\\base\\_common.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\base\\_common.scss"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\sass\\base\\_typography.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\base\\_typography.scss"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\sass\\components\\_banners.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\components\\_banners.scss"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\sass\\components\\_buttons.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\components\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\sass\\components\\_card.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\components\\_card.scss"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\sass\\components\\_form.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\components\\_form.scss"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\sass\\components\\_misc.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\components\\_misc.scss"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\sass\\components\\_slider.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\components\\_slider.scss"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\sass\\components\\_tabs.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\components\\_tabs.scss"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\sass\\layout\\_footer.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\layout\\_footer.scss"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\sass\\layout\\_header.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\layout\\_header.scss"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\sass\\layout\\_navigation.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\layout\\_navigation.scss"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\sass\\layout\\_responsive.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\layout\\_responsive.scss"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\sass\\layout\\_sidebar.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\layout\\_sidebar.scss"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\sass\\layout\\_spacing.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\layout\\_spacing.scss"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\sass\\main.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\main.scss"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\sass\\pages\\_blog.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\pages\\_blog.scss"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\sass\\pages\\_invoice.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\pages\\_invoice.scss"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\sass\\pages\\_page.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\pages\\_page.scss"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\sass\\pages\\_print.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\pages\\_print.scss"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\sass\\pages\\_shop.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\pages\\_shop.scss"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\sass\\pages\\_vendors.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\pages\\_vendors.scss"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\sass\\themes\\_default.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\themes\\_default.scss"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\sass\\vendors\\_vendors-import.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\vendors\\_vendors-import.scss"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Nest-AspNet.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Nest-AspNet.props",
+      "PackagePath": "build\\Nest-AspNet.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Nest-AspNet.props",
+      "PackagePath": "buildMultiTargeting\\Nest-AspNet.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Nest-AspNet.props",
+      "PackagePath": "buildTransitive\\Nest-AspNet.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
