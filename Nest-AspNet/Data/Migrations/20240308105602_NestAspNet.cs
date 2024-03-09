@@ -2,9 +2,9 @@
 
 #nullable disable
 
-namespace Nest_AspNet.Data.Migration
+namespace Nest_AspNet.Migrations
 {
-    public partial class initmigr : Migration
+    public partial class NestAspNet : Migration
     {
         protected override void Up(MigrationBuilder migrationBuilder)
         {

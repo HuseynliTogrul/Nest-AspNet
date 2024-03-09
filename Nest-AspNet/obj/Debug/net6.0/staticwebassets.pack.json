@@ -345,6 +345,42 @@
       "PackagePath": "staticwebassets\\assets\\imgs\\page\\page-404.png"
     },
     {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\product\\acerNoutbuk.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\product\\acerNoutbuk.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\product\\acerNoutbukHover.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\product\\acerNoutbukHover.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\product\\iphone-back.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\product\\iphone-back.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\product\\iphone.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\product\\iphone.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\product\\lgTv.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\product\\lgTv.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\product\\lgTvHover.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\product\\lgTvHover.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\product\\noutbuk.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\product\\noutbuk.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\product\\phone.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\product\\phone.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\product\\tv.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\product\\tv.jpg"
+    },
+    {
       "Id": "C:\\Users\\acer\\Desktop\\Nest-AspNet\\Nest-AspNet\\wwwroot\\assets\\imgs\\shop\\cat-1.png",
       "PackagePath": "staticwebassets\\assets\\imgs\\shop\\cat-1.png"
     },
