@@ -10,5 +10,6 @@ namespace Nest_AspNet.Models
         [NotMapped]
         public IFormFile File { get; set; } = null!;
         public List<Product> Products { get; set; } = null!;
+        public bool IsDeleted { get; set; }
     }
 }
