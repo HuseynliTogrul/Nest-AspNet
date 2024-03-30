@@ -1,4 +1,11 @@
-﻿<!DOCTYPE html>
+﻿@using Nest_AspNet.Services;
+@using P237_Nest.Services
+@inject ILayoutService service;
+@{
+    var dto = await service.GetUser();
+    string fullname = dto.FullName;
+}
+<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -48,6 +55,48 @@
                         @* <h6 class="collapse-header">Custom Components:</h6> *@
                         <a class="collapse-item" asp-controller="Category" asp-action="Index">Category List</a>
                         <a class="collapse-item" asp-controller="Category" asp-action="Create">Category Create</a>
+                    </div>
+                </div>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link collapsed" href="#" data-toggle="collapse" data-target="#collapseProduct"
+                   aria-expanded="false" aria-controls="collapseProduct">
+                    <i class="fas fa-fw fa-cog"></i>
+                    <span>Products</span>
+                </a>
+                <div id="collapseProduct" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionSidebar">
+                    <div class="bg-white py-2 collapse-inner rounded">
+                        @* <h6 class="collapse-header">Custom Components:</h6> *@
+                        <a class="collapse-item" asp-controller="Product" asp-action="Index">Product List</a>
+                        <a class="collapse-item" asp-controller="Product" asp-action="Create">Product Create</a>
+                    </div>
+                </div>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link collapsed" href="#" data-toggle="collapse" data-target="#Size"
+                   aria-expanded="true" aria-controls="Size">
+                    <i class="fas fa-fw fa-cog"></i>
+                    <span>Sizes</span>
+                </a>
+                <div id="Size" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionSidebar">
+                    <div class="bg-white py-2 collapse-inner rounded">
+                        @* <h6 class="collapse-header">Custom Components:</h6> *@
+                        <a class="collapse-item" asp-controller="Size" asp-action="Index">Size List</a>
+                        <a class="collapse-item" asp-controller="Size" asp-action="Create">Size Create</a>
+                    </div>
+                </div>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link collapsed" href="#" data-toggle="collapse" data-target="#pSize"
+                   aria-expanded="true" aria-controls="pSize">
+                    <i class="fas fa-fw fa-cog"></i>
+                    <span>Product Sizes</span>
+                </a>
+                <div id="pSize" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionSidebar">
+                    <div class="bg-white py-2 collapse-inner rounded">
+                        @* <h6 class="collapse-header">Custom Components:</h6> *@
+                        <a class="collapse-item" asp-controller="ProductSize" asp-action="Index">Product Sizes List</a>
+                        <a class="collapse-item" asp-controller="ProductSize" asp-action="Create">Product Sizess Create</a>
                     </div>
                 </div>
             </li>
@@ -239,7 +288,7 @@
                         <li class="nav-item dropdown no-arrow">
                             <a class="nav-link dropdown-toggle" href="#" id="userDropdown" role="button"
                                data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                                <span class="mr-2 d-none d-lg-inline text-gray-600 small">Douglas McGee</span>
+                                <span class="mr-2 d-none d-lg-inline text-gray-600 small">@fullname</span>
                                 <img class="img-profile rounded-circle"
                                      src="img/undraw_profile.svg">
                             </a>
@@ -329,7 +378,7 @@
 
     <!-- Custom scripts for all pages-->
     <script src="~/admin/js/sb-admin-2.min.js"></script>
-    @RenderSection("Scripts",false)
+    @RenderSection("Scripts", false)
 
 </body>
 

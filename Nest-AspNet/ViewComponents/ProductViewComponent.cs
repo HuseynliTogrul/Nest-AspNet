@@ -23,5 +23,4 @@ namespace Nest_AspNet.ViewComponents
                                       : View(await products.Where(x => x.CategoryId == categoryId).OrderByDescending(x => x.Id).Take(20).ToListAsync());
         }
     }
-    }
 }

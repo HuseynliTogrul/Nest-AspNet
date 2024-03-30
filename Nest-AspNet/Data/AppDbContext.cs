@@ -1,5 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using Nest_AspNet.Models;
+using P237_Nest.Models;
 
 namespace Nest_AspNet.Data
 {

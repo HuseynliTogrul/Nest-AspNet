@@ -1,13 +1,17 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using Nest_AspNet.Data;
 using Nest_AspNet.Extentions;
 using Nest_AspNet.Models;
+using P237_Nest.Data;
+using P237_Nest.Extensions;
+using P237_Nest.Models;
 
 namespace P237_Nest.Areas.Admin.Controllers;
 
 [Area("Admin")]
-
+[Authorize(Roles = "Admin")]
 public class CategoryController : Controller
 {
     private readonly AppDbContext _context;
@@ -30,17 +34,14 @@ public class CategoryController : Controller
     [HttpPost]
     public async Task<IActionResult> Create(Category category)
     {
-        if (ModelState["Name"] == null || ModelState["File"] == null)
-        {
-            return View(category);
-        }
+        if (ModelState["Name"] == null ||
+            ModelState["File"] == null) return View(category);
 
         if (!category.File.CheckFileType("image"))
         {
             ModelState.AddModelError("", "Invalid File");
             return View(category);
         }
-
         if (!category.File.CheckFileSize(2))
         {
             ModelState.AddModelError("", "Invalid File Size");
@@ -64,12 +65,12 @@ public class CategoryController : Controller
     {
         if (id == null || id == 0)
         {
-            return NotFound();
+            return View("404");
         }
         Category? category = await _context.Categories.AsNoTracking().FirstOrDefaultAsync(x => x.Id == id);
         if (category == null)
         {
-            return NotFound();
+            return View("404");
         }
         return View(category);
     }
@@ -93,11 +94,7 @@ public class CategoryController : Controller
                 return View(category);
             }
 
-            var path = Path.Combine(_env.WebRootPath, "client", "assets", "categoryIcons", existsCategory.Icon);
-            if (System.IO.File.Exists(path))
-            {
-                System.IO.File.Delete(path);
-            }
+            category.File.DeleteFile(_env.WebRootPath, "client", "assets", "categoryIcons", existsCategory.Icon);
 
             var uniqueFileName = await category.File.
                 SaveFileAsync(_env.WebRootPath, "client", "assets", "categoryIcons");
@@ -117,11 +114,10 @@ public class CategoryController : Controller
         {
             return RedirectToAction("Edit", new { id = id });
         }
-
         return RedirectToAction("Index");
     }
 
-    [HttpGet]
+    [HttpPost]
     public async Task<IActionResult> Delete(int id)
     {
         Category? category = await _context.Categories.FirstOrDefaultAsync(x => x.Id == id);
@@ -129,8 +125,13 @@ public class CategoryController : Controller
         {
             return NotFound();
         }
-        category.IsDeleted = true;
+        //category.File.DeleteFile(_env.WebRootPath, "client", "assets", "categoryIcons", existsCategory.Icon);
+
+        category.IsDeleted = true; // soft delete
         await _context.SaveChangesAsync();
-        return RedirectToAction(nameof(Index));
+
+        var categories = await _context.Categories.Include(x => x.Products).Where(x => !x.IsDeleted).ToListAsync();
+
+        return PartialView("_CategoryPartial", categories);
     }
 }
