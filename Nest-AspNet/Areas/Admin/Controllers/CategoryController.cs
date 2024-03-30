@@ -30,11 +30,17 @@ public class CategoryController : Controller
     [HttpPost]
     public async Task<IActionResult> Create(Category category)
     {
+        if (ModelState["Name"] == null || ModelState["File"] == null)
+        {
+            return View(category);
+        }
+
         if (!category.File.CheckFileType("image"))
         {
             ModelState.AddModelError("", "Invalid File");
             return View(category);
         }
+
         if (!category.File.CheckFileSize(2))
         {
             ModelState.AddModelError("", "Invalid File Size");
