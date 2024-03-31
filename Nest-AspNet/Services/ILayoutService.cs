@@ -1,4 +1,6 @@
-﻿namespace Nest_AspNet.Services
+﻿using P237_Nest.Services;
+
+namespace Nest_AspNet.Services
 {
     public interface ILayoutService
     {

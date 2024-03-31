@@ -1,4 +1,5 @@
-﻿using P237_Nest.Models;
+﻿using Nest_AspNet.Areas.Admin.ViewModels;
+using P237_Nest.Models;
 using System.Drawing;
 
 namespace Nest_AspNet.Models

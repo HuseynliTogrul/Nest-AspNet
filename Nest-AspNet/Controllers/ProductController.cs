@@ -3,8 +3,6 @@ using Microsoft.EntityFrameworkCore;
 using Nest_AspNet.Data;
 using Nest_AspNet.ViewModels;
 using Newtonsoft.Json;
-using P237_Nest.Data;
-using P237_Nest.ViewModels;
 
 namespace P237_Nest.Controllers;
 

@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using Nest_AspNet.Data;
 
 namespace Nest_AspNet.ViewComponents

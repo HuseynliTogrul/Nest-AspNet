@@ -1,5 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using Nest_AspNet.Data;
+using Nest_AspNet.ViewModels;
 using Newtonsoft.Json;
 
 namespace Nest_AspNet.ViewComponents
